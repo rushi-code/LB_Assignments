@@ -36,7 +36,7 @@ int main()
     scanf("%d",&iValue);
 
     iRet = FactDiff(iValue);
-    printf("Difference betweem factors and  non factors is %d",iRet);
+    printf("Difference between summation of factors and  non factors is %d",iRet);
     return 0;
 }
 
